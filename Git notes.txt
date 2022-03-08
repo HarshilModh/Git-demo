@@ -9,3 +9,5 @@ Git commit -m "">"Something comment"
 git remote-->
 
 git push origin master->
+
+git clone https://github.com/HarshilModh/Git-demo.git
