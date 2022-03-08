@@ -1,2 +1,11 @@
 Git hub=empty repositry
 
+Git init->To make empty repo
+
+Git add->Git add filename->To ad specific file
+	 ->Git add . ->to add all files in the project	
+Git commit -m "">"Something comment"
+
+git remote-->
+
+git push origin master->
